@@ -6,7 +6,9 @@ This mini-project is part of module SC1015 (Introduction to Data Science & Artif
 
 Cardiovascular diseases (CVDs) are the leading cause of death worldwide, killing an estimated 17.9 million people each year, accounting for 31% of all fatalities worldwide. Heart attacks and strokes cause four out of every five CVD deaths, and one-third of these deaths occur in adults under the age of 70. CVDs are a common cause of heart failure, and this dataset contains 11 variables that can be used to predict heart disease.
 
-Early detection and management of CVDs are crucial for individuals with CVDs or those at high cardiovascular risk due to one or more risk factors, such as hypertension, diabetes, hyperlipidaemia, or pre-existing conditions. In such cases, machine learning models can be extremely beneficial.
+Early detection and management of CVDs are crucial for individuals with CVDs or those at high cardiovascular risk due to one or more risk factors, such as hypertension, diabetes, hyperlipidaemia, or pre-existing conditions. In such cases, machine learning models can be extremely beneficial. 
+
+Thus, the project team embarked on this project, that entailed utilising knowledge attained from the module's materials such as multiple processes under Visualisation and EDA and applying regression models where necessary. The team also explored beyond covered material during the model building process which led to promising results.
 
 This project's code is sequenced as follows (Please review the code in the order listed for a better understanding):
 
