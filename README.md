@@ -53,7 +53,7 @@ The team utilised 3 supervised learning models to experiment with classification
 ## Conclusion
 
 ## Key Takeaways 
-- Explored varying data visualisation. 
+- Explored various data visualisation. 
 - Explored different methods during Data Cleaning (for cholesterol values: removing 0s, replacing with them median values and replacing with a *multivariate polynomial regression **predicted*** value. 
 - Carrying out Data Resampling after *Data Cleaning* and identifying which *risk factors* are the better predictors for **HeartDiease**.
 - Gaining a deeper understanding of metrics used to evaluate the accuracy of models such as F1 score, Precision, Accuracy and Recall and when to apply them according to our needs.
