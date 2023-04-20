@@ -34,13 +34,6 @@ This project's code is sequenced as follows (Please review the code in the order
 4. Data Resampling and Train and Test Set Splitting 
 5. Data Modelling (Use of Classifiers) 
 
-## Contributors 
-- @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
-- @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
-- @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
-
-
-
 ## Libraries Used
 - Data Visualisation: [seaborn](https://seaborn.pydata.org/), [matplotlib (pyplot)](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
 - Data Processing: [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
@@ -66,6 +59,11 @@ The team utilised 3 supervised learning models to experiment with classification
 - Gaining a deeper understanding of metrics used to evaluate the accuracy of models such as F1 score, Precision, Accuracy and Recall and when to apply them according to our needs.
 - Explored classification methods as alternatives to building models. By understanding their respective applications and their advantages and disadvantages.
 - Technical and platform usage: Collaborating on Google Collab and Github.
+
+## Contributors 
+- @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
+- @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
+- @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
 
 ## References 
 - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
