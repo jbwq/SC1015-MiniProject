@@ -71,3 +71,6 @@ The team utilised 3 supervised learning models to experiment with classification
 - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 - https://www.medicalnewstoday.com/articles/257484#statistics
 - *heavy reference to this project done on kagle* https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling
+- https://www.ibm.com/topics/random-forest
+- https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+- https://www.ibm.com/topics/knn
