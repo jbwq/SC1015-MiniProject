@@ -36,7 +36,7 @@ This project's code is sequenced as follows (Please review the code in the order
 
 ## Contributors 
 - @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
-- @ kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
+- @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
 - @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
 
 
