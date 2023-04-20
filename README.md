@@ -1,6 +1,6 @@
 # SC1015-MiniProject
 
-#### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle [contributers] ()
+#### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle [contributers] (https://github.com/jbwq/SC1015-MiniProject/blob/main/README.md#contributors)
 
 
 
