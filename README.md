@@ -1,7 +1,6 @@
 # SC1015-MiniProject
 
-#### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle [contributers] (https://github.com/jbwq/SC1015-MiniProject/blob/main/README.md#contributors)
-
+### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle 
 
 
 ## About 
@@ -61,5 +60,14 @@ The team utilised 3 supervised learning models to experiment with classification
 ## Conclusion
 
 ## Key Takeaways 
+- Explored varying data visualisation. 
+- Explored different methods during Data Cleaning (for cholesterol values: removing 0s, replacing with them median values and replacing with a *multivariate polynomial regression **predicted*** value. 
+- Carrying out Data Resampling after *Data Cleaning* and identifying which *risk factors* are the better predictors for **HeartDiease**.
+- Gaining a deeper understanding of metrics used to evaluate the accuracy of models such as F1 score, Precision, Accuracy and Recall and when to apply them according to our needs.
+- Explored classification methods as alternatives to building models. By understanding their respective applications and their advantages and disadvantages.
+- Technical and platform usage: Collaborating on Google Collab and Github.
 
 ## References 
+- https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+- https://www.medicalnewstoday.com/articles/257484#statistics
+- *heavy reference to this project done on kagle* https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling
