@@ -1,5 +1,9 @@
 # SC1015-MiniProject
 
+#### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle [contributers] ()
+
+
+
 ## About 
 
 This mini-project is part of module SC1015 (Introduction to Data Science & Artificial Intelligence). In  this project, the team explored a dataset taken from Heart Failure Prediction Dataset (https://www.kaggle.com/fedesoriano/heart-failure-prediction). This dataset composes of data retrieved from countries such as the United States of America, Switzerland and Hungary, comprising of risk factors that contributes to the risk of developing Cardiovascular Dieases or CVDs for short. This amounted to a total of 918 observations, inclusive continuous, categorical and binary data types that allowed the team to explore and apply various data handling and visualisation methods seen in the project's code. The large sample size is a key factor in improving the reliability and the credibility of the results obtained at the end of this project and the project team hopes that this would enable the usability for health institutions across different countries.
@@ -16,6 +20,11 @@ Thus, the project team embarked on this project, that entailed utilising knowled
 
 CVDs are a common cause of heart failure, and this dataset contained 11 variables that can be used to predict heart disease.
 
+## Problem Defintion 
+Which brings us to our project defintion and goals. 
+- Which responses contribute to a higher chance of developing CVD?
+- Which model predicts this more accurately?
+
 ## Table of Contents
 
 This project's code is sequenced as follows (Please review the code in the order listed for a better understanding):
@@ -31,9 +40,7 @@ This project's code is sequenced as follows (Please review the code in the order
 - @/kyle - Data Visualisation, Data Cleaning, Data Classification (model building) 
 - @/yuquan - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
 
-## Problem Defintion 
-- Which responses contribute to a higher chance of developing CVD?
-- Which model predicts this more accurately?
+
 
 ## Libraries Used
 - Data Visualisation: [seaborn](https://seaborn.pydata.org/), [matplotlib (pyplot)](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
