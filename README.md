@@ -1,6 +1,6 @@
 # SC1015-MiniProject
 
-### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle 
+#### Built by: Boey Wen Qi, Lee Yu Quan, Lim Zhi Li Kyle 
 
 
 ## About 
