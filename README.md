@@ -19,7 +19,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death worldwide, killing
 
 In the context of Singapore, the rapidly ageing population would see an increase in expenditure of the government towards resources and subsidies to reduce the burden of healthcare costs on families - allowing accessibility towards medical services for the elderly (Chin , 2022). This is on top of the worrying statistic that 21 people die from cardiovascular disease daily, accounting for 32% of all deaths in 2021 (Singapore Heart Foundation, 2021). This brings forth the importance of machine learning, enabling early detection and management would hopefully see a reduction of medical costs in the long term. 
 
-### What this project entails 
+### What does this project entail?
 
 This project entailed utilising knowledge attained from the module's materials in processes such as data extraction and visualisation, leading to exploratotry data analysis (EDA), following up with data cleaning and resampling. The team also explored beyond covered material during the model building process which led to promising results.
 
@@ -34,11 +34,10 @@ Which brings us to our project defintion and goals.
 
 This project's code is sequenced as follows (Please review the code in the order listed for a better understanding):
 
-1. Data Extraction and Visualisation
-2. Exploratory Data Analysis
-3. Data Cleaning 
-4. Data Resampling and Train and Test Set Splitting 
-5. Data Modelling (Use of Classifiers) 
+1. Data Visualisation and Exploratory Data Analysis (EDA)
+2. Data Cleaning 
+3. Data Resampling and further EDA
+4. Data Modelling
 
 ## Libraries Used
 - Data Visualisation: [seaborn](https://seaborn.pydata.org/), [matplotlib (pyplot)](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
