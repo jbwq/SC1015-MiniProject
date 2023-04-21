@@ -66,10 +66,15 @@ The team utilised 3 supervised learning models to experiment with classification
 - Explored classification methods as alternatives to building models. By understanding their respective applications and their advantages and disadvantages.
 - Technical and platform usage: Collaborating on Google Collab and Github.
 
+## Presentation materials (video presentation)
+
+
 ## Contributors 
 - @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
 - @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
 - @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
+
+
 
 ## References 
 - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
