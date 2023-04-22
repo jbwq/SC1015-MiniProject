@@ -89,8 +89,8 @@ The team utilised 3 supervised learning models to experiment with classification
   - Implementing Random Forest Classifier: https://towardsdatascience.com/machine-learning-basics-random-forest-classification-499279bac51e
 
 ## References 
- International Business Machines Corporation (IBM). (n.d.). What is Random Forest? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/random-forest 
- International Business Machines Corporation (IBM). (n.d.). What is the K-nearest neighbors algorithm? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/knn 
+International Business Machines Corporation (IBM). (n.d.). What is Random Forest? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/random-forest 
+International Business Machines Corporation (IBM). (n.d.). What is the K-nearest neighbors algorithm? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/knn 
 alaa2mahmoud. (2023, February 19). Heart disease: 6 classifiers. Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/code/alaa2mahmoud/heart-disease-6-classifiers#Heart-Failure-Classification-Project 
 Aletbm. (2023, March 16). Cardiovascular diseases - EDA + modeling 🏥. Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling 
 Amazon Web Services. (n.d.). Docs.aws.amazon.com. Amazon Web Services. Retrieved April 22, 2023, from https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf 
