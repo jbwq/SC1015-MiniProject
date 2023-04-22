@@ -68,7 +68,8 @@ The team utilised 3 supervised learning models to experiment with classification
 
 ## Areas explored beyond syllabus materials:
 - Multivariate Polynomial Regression
-- K-fold Cross Validation
+- Cross Validation to increase the accuracy of the model 
+- Random Forest Classifer hyperparameter tuning
 - Supervised learning methods: C-Support Vector, k-Nearest Neighbours
 
 ## Presentation materials (video presentation)
