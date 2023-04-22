@@ -34,7 +34,7 @@ Which brings us to our project defintion and goals.
 
 This project's code is sequenced as follows (Please review the code in the order listed for a better understanding):
 
-1. Data Visualisation and Exploratory Data Analysis (EDA)
+1. [Data Visualisation and Exploratory Data Analysis (EDA)](https://github.com/jbwq/SC1015-MiniProject/blob/80217a53ab6852c6f09b0fad15a39b078aa27dfa/1)_Data_Visualiation_and_EDA.ipynb)
 2. Data Cleaning 
 3. Data Resampling and further EDA
 4. Data Modelling
