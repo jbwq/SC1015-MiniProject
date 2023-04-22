@@ -34,9 +34,9 @@ Which brings us to our project defintion and goals.
 
 This project's code is sequenced as follows (Please review the code in the order listed for a better understanding):
 
-1. [Data Visualisation and Exploratory Data Analysis (EDA)](https://github.com/jbwq/SC1015-MiniProject/blob/80217a53ab6852c6f09b0fad15a39b078aa27dfa/1)_Data_Visualiation_and_EDA.ipynb)
-2. Data Cleaning 
-3. Data Resampling and further EDA
+1. Data Visualisation and Exploratory Data Analysis (EDA) - 1)_Data_Visualiation_and_EDA.ipynb
+2. Data Cleaning - 2)_Data_Cleaning.ipynb
+3. Data Resampling and further EDA - 3)_Data_resampling.ipynb
 4. Data Modelling
 
 ## Libraries Used
@@ -56,14 +56,14 @@ The team utilised 3 supervised learning models to experiment with classification
 - Random Forest 
 
 ## Conclusion
-
+- In conclusion, the model that yielded the highest accuracy (in terms of both the recall and F1-score metrics) is utilising the k-Nearest Neighbours classification method. 
 
 ## Key Takeaways 
 - Explored various data visualisation. 
 - Explored different methods during Data Cleaning (for cholesterol values: removing 0s, replacing with them median values and replacing with a *multivariate polynomial regression **predicted*** value. 
 - Carrying out Data Resampling after *Data Cleaning* and identifying which *risk factors* are the better predictors for **HeartDiease**.
 - Gaining a deeper understanding of metrics used to evaluate the accuracy of models such as F1 score, Precision, Accuracy and Recall and when to apply them according to our needs.
-- Explored classification methods as alternatives to building models. By understanding their respective applications and their advantages and disadvantages.
+- Explored classification methods as alternatives to build accurate and reliable models. By understanding their respective applications and their advantages and disadvantages, this allowed us to see which type of algorithms are applicable and suited for different datasets. 
 - Technical and platform usage: Collaborating on Google Collab and Github.
 
 ## Presentation materials (video presentation)
@@ -79,9 +79,12 @@ The team utilised 3 supervised learning models to experiment with classification
 ## References 
 - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 - https://www.medicalnewstoday.com/articles/257484#statistics
-- *heavy reference to this project done on kagle* https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling
+- Main reference: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/code
+- https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling
+- https://www.kaggle.com/code/alaa2mahmoud/heart-disease-6-classifiers#Heart-Failure-Classification-Project
 - https://www.ibm.com/topics/random-forest
 - https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
 - https://www.ibm.com/topics/knn
 - https://www.myheart.org.sg/health/heart-disease-statistics/ 
 - https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older
+- https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html
