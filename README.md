@@ -66,6 +66,11 @@ The team utilised 3 supervised learning models to experiment with classification
 - Explored classification methods as alternatives to build accurate and reliable models. By understanding their respective applications and their advantages and disadvantages, this allowed us to see which type of algorithms are applicable and suited for different datasets. 
 - Technical and platform usage: Collaborating on Google Collab and Github.
 
+## Areas explored beyond syllabus materials:
+- Multivariate Polynomial Regression
+- K-fold Cross Validation
+- Supervised learning methods: C-Support Vector, k-Nearest Neighbours
+
 ## Presentation materials (video presentation)
 
 
@@ -74,7 +79,14 @@ The team utilised 3 supervised learning models to experiment with classification
 - @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
 - @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
 
-
+## Articles referenced during this project that we think are good reference materials
+- Article on cross validation and how to implement it: https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
+- Article on model metrics: https://koopingshung.com/blog/machine-learning-model-selection-accuracy-precision-recall-f1/
+- Articles on k-Nearest Neighbours: 
+  - Understanding k-Nearest Neighbours: https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+- Articles on Random Forest Classifier: 
+  - Understanding Random Forest Classifer: https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+  - Implementing Random Forest Classifier: https://towardsdatascience.com/machine-learning-basics-random-forest-classification-499279bac51e
 
 ## References 
 - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
@@ -88,3 +100,4 @@ The team utilised 3 supervised learning models to experiment with classification
 - https://www.myheart.org.sg/health/heart-disease-statistics/ 
 - https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older
 - https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html
+- https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
