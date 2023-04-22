@@ -89,16 +89,20 @@ The team utilised 3 supervised learning models to experiment with classification
   - Implementing Random Forest Classifier: https://towardsdatascience.com/machine-learning-basics-random-forest-classification-499279bac51e
 
 ## References 
-- https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-- https://www.medicalnewstoday.com/articles/257484#statistics
-- Main reference: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/code
-- https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling
-- https://www.kaggle.com/code/alaa2mahmoud/heart-disease-6-classifiers#Heart-Failure-Classification-Project
-- https://www.ibm.com/topics/random-forest
-- https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
-- https://www.ibm.com/topics/knn
-- https://www.myheart.org.sg/health/heart-disease-statistics/ 
-- https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older
-- https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html
-- https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
-- https://sph.nus.edu.sg/2018/12/cost-of-silent-risk-factors-for-cardiovascular-disease-in-asia/#:~:text=CVDs%20contribute%20to%20approximately%20one,households%20and%20the%20public%20finances.
+ International Business Machines Corporation (IBM). (n.d.). What is Random Forest? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/random-forest 
+ International Business Machines Corporation (IBM). (n.d.). What is the K-nearest neighbors algorithm? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/knn 
+alaa2mahmoud. (2023, February 19). Heart disease: 6 classifiers. Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/code/alaa2mahmoud/heart-disease-6-classifiers#Heart-Failure-Classification-Project 
+Aletbm. (2023, March 16). Cardiovascular diseases - EDA + modeling 🏥. Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/code/aletbm/cardiovascular-diseases-eda-modeling#%F0%9F%93%8A-EDA-and-data-wrangling 
+Amazon Web Services. (n.d.). Docs.aws.amazon.com. Amazon Web Services. Retrieved April 22, 2023, from https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf 
+Chin , S. F. (2022, September 27). S'pore's population ageing rapidly: Nearly 1 in 5 citizens is 65 years and older. The Straits Times. Retrieved April 21, 2023, from https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older 
+Gandhi, R. (2018, June 8). Support Vector Machine - introduction to machine learning algorithms. Medium. Retrieved April 22, 2023, from https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47 
+javatpoint. (2021). K-Nearest Neighbor(KNN) algorithm for Machine Learning - Javatpoint. www.javatpoint.com. Retrieved April 22, 2023, from https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning 
+K, G. M. (2020, September 23). Machine learning basics: Random forest classification. Medium. Retrieved April 22, 2023, from https://towardsdatascience.com/machine-learning-basics-random-forest-classification-499279bac51e 
+Kohli, M.D., FACC, D. P., &amp; Felman, A. (2019, July 26). Cardiovascular disease: Types, symptoms, prevention, and causes. Medical News Today. Retrieved April 20, 2023, from https://www.medicalnewstoday.com/articles/257484 
+Lyashenko, V. (2023, April 21). Cross-validation in Machine Learning: How To Do It Right. neptune.ai. Retrieved April 22, 2023, from https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right 
+Navlani, A. (2019, December). Scikit-learn SVM tutorial with Python (Support Vector Machines). DataCamp. Retrieved April 22, 2023, from https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python 
+Saw Swee Hock School of Public Health. (2018, December 18). Cost of silent risk factors for cardiovascular disease in Asia. SPH.NUS.EDU.SG. Retrieved April 22, 2023, from https://sph.nus.edu.sg/2018/12/cost-of-silent-risk-factors-for-cardiovascular-disease-in-asia/#:~:text=CVDs%20contribute%20to%20approximately%20one,households%20and%20the%20public%20finances 
+Shung, K. P. (2020, January 20). Model selection: Accuracy, precision, recall or F1? Building Intelligence Together. Retrieved April 22, 2023, from https://koopingshung.com/blog/machine-learning-model-selection-accuracy-precision-recall-f1/ 
+Singapore Heart Foundation. (2021). Heart disease statistics. Singapore Heart Foundation. Retrieved April 21, 2023, from https://www.myheart.org.sg/health/heart-disease-statistics/ 
+World Health Organization (WHO). (2021, June 11). Cardiovascular diseases (CVDs). World Health Organization. Retrieved April 20, 2023, from https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) 
+Yiu, T. (2019, June 12). Understanding random forest. Medium. Retrieved April 22, 2023, from https://towardsdatascience.com/understanding-random-forest-58381e0602d2 
