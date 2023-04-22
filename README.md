@@ -101,3 +101,4 @@ The team utilised 3 supervised learning models to experiment with classification
 - https://www.straitstimes.com/singapore/singapores-population-ageing-rapidly-184-of-citizens-are-65-years-and-older
 - https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html
 - https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
+- https://sph.nus.edu.sg/2018/12/cost-of-silent-risk-factors-for-cardiovascular-disease-in-asia/#:~:text=CVDs%20contribute%20to%20approximately%20one,households%20and%20the%20public%20finances.
