@@ -61,7 +61,7 @@ The team utilised 3 supervised learning models to experiment with classification
 ## Key Takeaways 
 - Explored various data visualisation. 
 - Explored different methods during Data Cleaning (for cholesterol values: removing 0s, replacing with them median values and replacing with a *multivariate polynomial regression **predicted*** value. 
-- Carrying out Data Resampling after *Data Cleaning* and identifying which *risk factors* are the better predictors for **HeartDiease**.
+- Carrying out Data Resampling after *Data Cleaning* and identifying which *risk factors* are the better predictors for **HeartDisease**.
 - Gaining a deeper understanding of metrics used to evaluate the accuracy of models such as F1 score, Precision, Accuracy and Recall and when to apply them according to our needs.
 - Explored classification methods as alternatives to build accurate and reliable models. By understanding their respective applications and their advantages and disadvantages, this allowed us to see which type of algorithms are applicable and suited for different datasets. 
 - Technical and platform usage: Collaborating on Google Collab and Github.
