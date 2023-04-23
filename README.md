@@ -37,7 +37,7 @@ This project's code is sequenced as follows (Please review the code in the order
 1. Data Visualisation and Exploratory Data Analysis (EDA) - 1)_Data_Visualiation_and_EDA.ipynb
 2. Data Cleaning - 2)_Data_Cleaning.ipynb
 3. Data Resampling and further EDA - 3)_Data_resampling.ipynb
-4. Data Modelling
+4. Data Modelling - 4)_Modelling.ipynb
 
 ## Libraries Used
 - Data Visualisation: [seaborn](https://seaborn.pydata.org/), [matplotlib (pyplot)](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
