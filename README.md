@@ -72,10 +72,12 @@ The team utilised 3 supervised learning models to experiment with classification
 - Random Forest Classifer hyperparameter tuning
 - Supervised learning methods: C-Support Vector, k-Nearest Neighbours
 
-## Contributors 
-- @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
-- @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
-- @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
+## Recommendations for further enhancements
+Like any endeavor, this project has its drawbacks and room for improvement. D To achieve an even better accuracy, we have identified some possible areas that could be explored for the future of this project.
+
+  - Exploring other types of cross validation methods such as k-fold. In this project, we saw through the implementation of *holdout cross validation* where it entailed splitting the train and test data set, this may have its setbacks due to it testing it only once. k-fold on the otherhand, performs training and testing on several different parts of the dataset, allowing for the final overall score to be more robust.
+  - Using a larger dataset. The size of our dataset had its shortcomings as there were chances of human error as seen in the cholesterol values. However, this could be mitigated by looking at a dataset with a larger sample size, promising relativity and increased reliability in the long run. Concating datasets with other datasets could be a potential area to look into. 
+
 
 ## Articles referenced during this project that we think are good reference materials
 - Article on cross validation and how to implement it: https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
@@ -85,6 +87,11 @@ The team utilised 3 supervised learning models to experiment with classification
 - Articles on Random Forest Classifier: 
   - Understanding Random Forest Classifer: https://towardsdatascience.com/understanding-random-forest-58381e0602d2
   - Implementing Random Forest Classifier: https://towardsdatascience.com/machine-learning-basics-random-forest-classification-499279bac51e
+  
+## Contributors 
+- @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
+- @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
+- @yuquan1ee - Data Extraction, Data Visualisation, Data Resampling, Data Classification (model building) 
 
 ## References 
 International Business Machines Corporation (IBM). (n.d.). What is Random Forest? IBM. Retrieved April 22, 2023, from https://www.ibm.com/topics/random-forest 
