@@ -72,9 +72,6 @@ The team utilised 3 supervised learning models to experiment with classification
 - Random Forest Classifer hyperparameter tuning
 - Supervised learning methods: C-Support Vector, k-Nearest Neighbours
 
-## Presentation materials (video presentation)
-
-
 ## Contributors 
 - @jbwq - Data Extraction, Data Visualisation, Data Classification (model building)
 - @kylerlim - Data Visualisation, Data Cleaning, Data Classification (model building) 
